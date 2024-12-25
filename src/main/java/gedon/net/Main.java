@@ -8,6 +8,6 @@ public class Main {
         Obscur obscur = new Obscur("Obscur", 47);
         lumineux.rencontre(obscur);
         obscur.rencontre(lumineux);
-    }//        }
+    }
 
 }
